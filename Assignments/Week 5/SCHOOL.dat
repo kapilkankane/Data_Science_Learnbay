@@ -1,0 +1,76 @@
+{'Student1': {
+    'rollno': '68102', 
+    'name': 'Janet Baker', 
+    'class': '5',
+    'fees': '9000'},
+'Student2': {
+    'rollno': '68103', 
+    'name': 'Darren Kirk', 
+    'class': '7',
+    'fees': '13000'},
+'Student3': {
+    'rollno': '68104', 
+    'name': 'Sophie Meadows', 
+    'class': '7',
+    'fees': '13000'},
+'Student4': {
+    'rollno': '68105', 
+    'name': 'Ravi Patel', 
+    'class': '7',
+    'fees': '13000'},
+'Student5': {
+    'rollno': '68106', 
+    'name': 'Daisy Rogers', 
+    'class': '7',
+    'fees': '13000'},
+'Student6': {
+    'rollno': '68107', 
+    'name': 'Tom Rogers', 
+    'class': '7',
+    'fees': '13000'},
+'Student7': {
+    'rollno': '67998', 
+    'name': 'Brett Akers', 
+    'class': '7',
+    'fees': '13000'},
+'Student8': {
+    'rollno': '67999', 
+    'name': 'John Deakin', 
+    'class': '8',
+    'fees': '15000'},
+'Student9': {
+    'rollno': '68000', 
+    'name': 'Celia Fisher', 
+    'class': '6',
+    'fees': '11000'},
+'Student10': {
+    'rollno': '68001', 
+    'name': 'Leo Harris', 
+    'class': '4',
+    'fees': '7000'},
+'Student11': {
+    'rollno': '68002', 
+    'name': 'Shankunthala Patel', 
+    'class': '8',
+    'fees': '15000'},
+'Student12': {
+    'rollno': '67893', 
+    'name': 'Sally Brown', 
+    'class': '9',
+    'fees': '17000'},
+'Student13': {
+    'rollno': '67894', 
+    'name': 'Jane Carter', 
+    'class': '9',
+    'fees': '17000'},
+'Student14': {
+    'rollno': '67895', 
+    'name': 'Paul Edwards', 
+    'class': '9',
+    'fees': '17000'},
+'Student14': {
+    'rollno': '1005', 
+    'name': 'Thomas Leyk', 
+    'class': '9',
+    'fees': '17000'}
+}

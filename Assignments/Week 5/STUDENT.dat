@@ -1,0 +1,57 @@
+{'Student1': {
+    'admission_number': '68102', 
+    'Name': 'Janet Baker', 
+    'Percentage': '55'},
+'Student2': {
+    'admission_number': '68103', 
+    'Name': 'Darren Kirk', 
+    'Percentage': '75'},
+'Student3': {
+    'admission_number': '68104', 
+    'Name': 'Sophie Meadows', 
+    'Percentage': '75'},
+'Student4': {
+    'admission_number': '68105', 
+    'Name': 'Ravi Patel', 
+    'Percentage': '70'},
+'Student5': {
+    'admission_number': '68106', 
+    'Name': 'Daisy Rogers', 
+    'Percentage': '70'},
+'Student6': {
+    'admission_number': '68107', 
+    'Name': 'Tom Rogers', 
+    'Percentage': '70'},
+'Student7': {
+    'admission_number': '67998', 
+    'Name': 'Brett Akers', 
+    'Percentage': '75'},
+'Student8': {
+    'admission_number': '67999', 
+    'Name': 'John Deakin', 
+    'Percentage': '86'},
+'Student9': {
+    'admission_number': '68000', 
+    'Name': 'Celia Fisher', 
+    'Percentage': '69'},
+'Student10': {
+    'admission_number': '68001', 
+    'Name': 'Leo Harris', 
+    'Percentage': '46'},
+'Student11': {
+    'admission_number': '68002', 
+    'Name': 'Shankunthala Patel', 
+    'Percentage': '83'},
+'Student12': {
+    'admission_number': '67893', 
+    'Name': 'Sally Brown', 
+    'Percentage': '94'},
+'Student13': {
+    'admission_number': '67894', 
+    'Name': 'Jane Carter', 
+    'Percentage': '93'},
+'Student14': {
+    'admission_number': '67895', 
+    'Name': 'Paul Edwards', 
+    'Percentage': '97'}
+}
